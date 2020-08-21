@@ -1,0 +1,12 @@
+{
+  "ID": "C719B975D27A45659F537CBF12F53B3F",
+  "ActionKeyword": "guid",
+  "Name": "Guid Generator",
+  "Description": "Wox Plugin for generating a Guid",
+  "Author": "mikemorain",
+  "Version": "0.1.0",
+  "Language": "csharp",
+  "Website": "",
+  "IcoPath": "images\\id.jpg",
+  "ExecuteFileName": "Wox.Plugin.GuidGenerator.dll"
+}
